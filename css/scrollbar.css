@@ -1,0 +1,15 @@
+.scrollbar-none{
+    scrollbar-width: none;
+}
+
+.scrollbar-sm{
+    scrollbar-width: thin;
+}
+.scrollbar-auto{
+    scrollbar-width: auto;
+}
+
+.scrollbar-min{
+    scrollbar-width: thin;
+    scrollbar-color: #b7b7b7 transparent;
+}
